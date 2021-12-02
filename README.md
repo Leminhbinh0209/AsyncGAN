@@ -4,5 +4,6 @@
 <br />
 **Binh M. Le** & Simon S. Woo, "Exploring the Asynchronous of the Frequency Spectra of GAN-generated Facial Images"  <br /> 
 *International Workshop on Safety & Security of Deep Learning, IJCAI 2021* <br /> 
-
+#
+*Star if you find it useful.* ⭐
 
